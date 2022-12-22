@@ -4,6 +4,8 @@
 /dist
 /lib
 /package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
 /tmp
 node_modules
 oclif.manifest.json
