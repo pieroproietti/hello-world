@@ -34,12 +34,14 @@
   "files": [
     "/bin",
     "/dist",
-    "/npm-shrinkwrap.json",
     "/oclif.manifest.json"
   ],
   "homepage": "https://github.com/pieroproietti/hello-world",
   "keywords": [
-    "oclif"
+    "oclif",
+    "npm",
+    "yarn",
+    "pnpm"
   ],
   "license": "MIT",
   "main": "dist/index.js",
