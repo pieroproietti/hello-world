@@ -1,12 +1,12 @@
 {
   "name": "oclif-hello-world",
   "description": "oclif example Hello World CLI",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Salesforce",
   "bin": {
     "oex": "./bin/run"
   },
-  "bugs": "https://github.com/oclif/hello-world/issues",
+  "bugs": "https://github.com/pieroproietti/hello-world/issues",
   "dependencies": {
     "@oclif/core": "^1.22.0",
     "@oclif/plugin-help": "^5",
@@ -22,7 +22,7 @@
     "eslint-config-oclif": "^4",
     "eslint-config-oclif-typescript": "^1.0.3",
     "mocha": "^9",
-    "oclif": "^3",
+    "oclif-pnpm": "^3",
     "shx": "^0.3.3",
     "ts-node": "^10.9.1",
     "tslib": "^2.4.1",
